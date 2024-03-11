@@ -50,6 +50,9 @@ p {
   line-height: 1.5;
   text-align: center;
 }
+.list-inside li {
+  list-style-position: center;
+}
 li {
   text-align: center;
 }
