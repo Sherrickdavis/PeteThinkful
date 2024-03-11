@@ -69,7 +69,7 @@ li {
   )
   
 .list-inside li {
-  list-style-position: outside;
+  list-style-position: inside;
 }
 /*Other */
 
