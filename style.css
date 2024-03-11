@@ -20,6 +20,9 @@ div {
   margin: auto;
   width: 600px;
 }
+div.container {
+  text-align: center;
+}
 article {
   padding: 50px 0;
 }
@@ -48,12 +51,6 @@ text-align: center;
 /* Paragraphs */
 p {
   line-height: 1.5;
-  text-align: center;
-}
-.list-inside li {
-  list-style-position: center;
-}
-li {
   text-align: center;
 }
 
