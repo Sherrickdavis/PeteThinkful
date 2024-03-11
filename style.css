@@ -67,18 +67,16 @@ img {
 
   
 .list-inside li {
+  text-align: center;
   list-style-position: inside;
-}
-
-li {
-  text-align: center;
-  ol {
-  text-align: center;
-  )
+  }
+  
 
 .text ol {
-   list-style-position: outside;
+  text-align: center;
+   list-style-position: inside;
 }
+
 /*Other */
 
 hr {
