@@ -71,6 +71,13 @@ li {
 .list-inside li {
   list-style-position: inside;
 }
+  ol {
+  text-align: center;
+  )
+
+.text ol {
+   list-style-position: inside;
+}
 /*Other */
 
 hr {
