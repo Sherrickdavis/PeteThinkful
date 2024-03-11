@@ -64,13 +64,14 @@ img {
   border-radius: 50%;
   border: 2px solid #003049;
 }
-li {
-  text-align: center;
-  )
+
   
 .list-inside li {
   list-style-position: inside;
 }
+
+li {
+  text-align: center;
   ol {
   text-align: center;
   )
