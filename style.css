@@ -66,6 +66,7 @@ img {
 }
 .list-inside li {
   list-style-position: inside;
+  text-align: center;
 }
 /*Other */
 
