@@ -69,14 +69,14 @@ li {
   )
   
 .list-inside li {
-  list-style-position: inside;
+  list-style-position: outside;
 }
   ol {
   text-align: center;
   )
 
 .text ol {
-   list-style-position: inside;
+   list-style-position: outside;
 }
 /*Other */
 
