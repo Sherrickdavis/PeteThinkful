@@ -68,6 +68,8 @@ img {
   list-style-position: inside;
   text-align: center;
 }
+  li { text-align: center;
+}
 /*Other */
 
 hr {
