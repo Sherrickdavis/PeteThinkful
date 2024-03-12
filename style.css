@@ -65,8 +65,17 @@ img {
   border: 2px solid #003049;
 }
 
-
-  
+<stlye>
+ ol {
+  display: table;
+  margin-right: 0 auto;
+  text-align: left;
+}
+ul {
+  display: table;
+  margin-right: 0 auto;
+  text-align: left;
+} 
 .list ul {
   text-align: center;
   list-style-position: inside;
@@ -77,6 +86,7 @@ img {
   text-align: center;
    list-style-position: inside;
 }
+</style>
 
 /*Other */
 
