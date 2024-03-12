@@ -30,12 +30,9 @@ article div {
   text-align: center;
   width: 100%;
 }
-/* Links */
-
-nav {
-  text-align: center;
+hr {
+  border: 1px solid black;
 }
-
 a: link { color: #d62828; }
 a: hover { color: #f77f00;}
 
@@ -57,9 +54,3 @@ img {
   border: 2px solid #003049;
 }
 
-
-/*Other */
-
-hr {
-  border: 1px solid black;
-}
