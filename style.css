@@ -67,11 +67,13 @@ img {
 
 
 .list li {
+  margin: auto;
   text-align: left;
   list-style-position: inside;
 } 
 
 .text li {
+  margin: auto;
   text-align: center;
   list-style-position: inside;
 }
