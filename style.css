@@ -33,9 +33,12 @@ article div {
 hr {
   border: 1px solid black;
 }
-a: link { color: #d62828; }
-a: hover { color: #f77f00;}
+a:link { color: #d62828; }
+a:hover { color: #f77f00;}
 
+footer p {
+  text-align: center;
+}
 
 /* Paragraphs */
 p {
