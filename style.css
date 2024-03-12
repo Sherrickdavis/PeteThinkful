@@ -65,14 +65,16 @@ img {
   border: 2px solid #003049;
 }
 
-
+li
+{margin-left: 300px;
+}
 .list li {
-  text-align: left;
+  text-align: justify;
   list-style-position: inside;
 } 
 
 .text li {
-  text-align: left;
+  text-align: justify;
   list-style-position: inside;
 }
 
