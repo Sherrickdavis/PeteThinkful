@@ -66,15 +66,13 @@ img {
 }
 
 
-
-
 .list li {
   text-align: center;
   list-style-position: inside;
 } 
   
 
-.text ol {
+.text li {
   text-align: center;
   list-style-position: inside;
 }
