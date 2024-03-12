@@ -65,7 +65,11 @@ img {
   border: 2px solid #003049;
 }
 
-
+li {
+  padding: 5px 10px;
+  margin-left: 40px;
+  list-style-position: inside;
+}
 /*Other */
 
 hr {
