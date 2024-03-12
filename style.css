@@ -66,6 +66,7 @@ img {
 }
 
 li {
+  text-align: justify;
   list-style-position: inside;
   
 }
