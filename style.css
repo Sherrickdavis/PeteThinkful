@@ -65,6 +65,16 @@ img {
   border: 2px solid #003049;
 }
 
+ol {
+  display: table;
+  margin-right: 0 auto;
+  text-align: left;
+}
+ul {
+  display: table;
+  margin-right: 0 auto;
+  text-align: left;
+}
   
 .list-inside li {
   text-align: center;
