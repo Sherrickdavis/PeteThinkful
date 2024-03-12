@@ -67,6 +67,7 @@ img {
 
 li {
  padding-left: 100px;
+ list-style-position: outside;
 }
   
 
