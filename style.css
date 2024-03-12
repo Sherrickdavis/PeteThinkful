@@ -39,10 +39,6 @@ nav {
 a: link { color: #d62828; }
 a: hover { color: #f77f00;}
 
-nav a {
-text-align: center;
-  color: #d62828;
-}
 
 /* Paragraphs */
 p {
