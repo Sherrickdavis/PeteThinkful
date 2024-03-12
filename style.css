@@ -15,6 +15,9 @@ h3 {
   text-align: center;
 }
 /* The div container constrains the content width within the main container to 600px */
+nav {
+  text-align: center;
+}
 div {
   margin: auto;
   width: 600px;
@@ -25,9 +28,7 @@ div.container {
 article {
   padding: 50px 0;
 }
-nav {
-  text-align: center;
-}
+
 article div {
   text-align: center;
   width: 100%;
