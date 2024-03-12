@@ -30,6 +30,9 @@ article div {
   text-align: center;
   width: 100%;
 }
+nav {
+  text-align: center;
+}
 hr {
   border: 1px solid black;
 }
