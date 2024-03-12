@@ -76,7 +76,7 @@ ul {
   text-align: left;
 }
   
-.list-inside li {
+.list li {
   text-align: center;
   list-style-position: inside;
   }
