@@ -36,12 +36,9 @@ nav {
   text-align: center;
 }
 
-a { 
-  color: #d62828;
-}
-{
-  hover: #f77f00;
-}
+a: link { color: #d62828; }
+a: hover { color: #f77f00;}
+
 nav a {
 text-align: center;
   color: #d62828;
@@ -50,7 +47,7 @@ text-align: center;
 /* Paragraphs */
 p {
   line-height: 1.5;
-  text-align: center;
+  text-align: left;
 }
 
 /* Images */
