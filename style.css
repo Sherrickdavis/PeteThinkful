@@ -22,7 +22,9 @@ h3 {
 article {
     padding: 50px 0;
 }
-
+div.containter {
+    text-align: center;
+}
 article div {
     text-align: center;
     width: 100%;
@@ -48,7 +50,9 @@ img {
 hr {
     border: 1px solid black;
 }
-
+nav a {
+    text-align: center;
+}
 a:link { color: #d62828; }
 a:hover { color: #f77f00;}
 
