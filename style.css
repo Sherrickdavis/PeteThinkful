@@ -66,8 +66,9 @@ img {
 }
 
 li {
- margin-left: 100px;
- list-style-position: inside;
+margin-left: 1000px;
+list-style-position: inside;
+text-align: center;
 }
   
 
