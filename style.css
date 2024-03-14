@@ -7,27 +7,50 @@ body {
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
   padding: 40px;
 }
-
 /* Heading */
 h1,
 h2,
 h3 {
-  font-family: "Playfair Display", Times, serif;
-  text-align: center;
+  font-family: "Playfair Display", Times, serif; text-align: center;
 }
-/* The div container constrains the content width within the main container to 600px */
-div {
-  margin: auto;
-  width: 600px;
-}
-article {
-  padding: 50px 0;
+
+  article {
+    padding: 50px 0;
 }
 
 article div {
   text-align: center;
   width: 100%;
 }
+
+p {
+  line-height: 1.5;
+}
+
+/* The div container constrains the content width within the main container to 600px */
+div {
+  margin: auto;
+  width: 600px;
+}
+
+/* Images */
+img {
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+}
+hr {
+  border: 1px solid black;
+}
+
+
+
+.image-circle {
+  border-radius: 50%;
+  border: 2px solid #003049;
+}
+
+/*Other */
 /*link*/
 
 nav {
@@ -45,11 +68,6 @@ nav a {
   text-align: center;
 }
 
-/* Paragraphs */
-p {
-  line-height: 1.5;
-  text-align: center;
-}
 ul {
   text-align: center;
 }
@@ -57,18 +75,8 @@ footer p {
   text-align: center;
 }
 
-/* Images */
-img {
-  width: 100%;
-  max-width: 200px;
-  height: auto;
-}
-.image-circle {
-  border-radius: 50%;
-  border: 2px solid #003049;
-}
 
-/*Other */
-hr {
-  border: 1px solid black;
-}
+
+
+
+
