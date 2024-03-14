@@ -1,5 +1,6 @@
 /* The @import rule below imports the Playfair Display and Source Sans Pro fonts into the stylesheet. You don't have to edit this line.*/
 @import url("https://fonts.googleapis.com/css2?family=Playfair+Display&family=Source+Sans+Pro:wght@400&display=swap");
+
 body {
   background-color:#eae2b7;
   color: #003049;
@@ -15,9 +16,7 @@ h3 {
   text-align: center;
 }
 /* The div container constrains the content width within the main container to 600px */
-nav {
-  text-align: center;
-}
+
 div {
   margin: auto;
   width: 600px;
