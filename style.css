@@ -16,17 +16,17 @@ h3 {
   text-align: center;
 }
 /* The div container constrains the content width within the main container to 600px */
-
 div {
   margin: auto;
   width: 600px;
 }
-div.container {
-  text-align: center;
-}
 article {
   padding: 50px 0;
 }
+
+div.container {
+  text-align: center;}
+
 
 article div {
   text-align: center;
