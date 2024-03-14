@@ -18,6 +18,7 @@ h3 {
   text-align: center;
 }
 h5, { font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
+     text-align: center;
 }
 /* The div container constrains the content width within the main container to 600px */
 div {
@@ -56,9 +57,6 @@ p {
   text-align: left;
 }
 
-f {
-  text-align: center;
-}
 
 /* Images */
 img {
