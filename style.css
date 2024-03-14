@@ -37,11 +37,11 @@ article div {
 hr {
   border: 1px solid black;
 }
-nav a. {
+nav {
   margin-right: 40px;
   color: #d62828;
 }
-a:link { 
+a { 
   color: #d62828; 
 }
 a:hover { 
