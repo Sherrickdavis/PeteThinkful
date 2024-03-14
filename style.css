@@ -41,11 +41,14 @@ a:hover {
   color: #f77f00;
 }
 
+nav a {
+  text-align: center;
+}
 
 /* Paragraphs */
 p {
   line-height: 1.5;
-  text-align: left;
+  text-align: center;
 }
 
 footer p {
