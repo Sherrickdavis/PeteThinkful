@@ -31,9 +31,9 @@ article div {
 /*link*/
 
 nav {
-  margin-right: 40px;
-  color: #d62828;
+  text-align: center;
 }
+
 a { 
   color: #d62828; 
 }
